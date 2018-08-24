@@ -18,4 +18,8 @@ function inc(a){
   return ++a
 }
 
-function sub
+function dec(a){
+  return --a
+}
+
+function
